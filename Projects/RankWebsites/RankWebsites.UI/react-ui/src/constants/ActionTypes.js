@@ -1,0 +1,2 @@
+export const LOAD_WEBSITES = "LOAD_WEBSITES";
+export const VISITDATE_CHANGE = "VISITDATE_CHANGE";

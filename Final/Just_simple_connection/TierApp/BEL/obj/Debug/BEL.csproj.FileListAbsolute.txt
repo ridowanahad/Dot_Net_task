@@ -1,0 +1,12 @@
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BEL\bin\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BEL\bin\Debug\BEL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BEL\obj\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BEL\obj\Debug\BEL.pdb
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\TierApp\BEL\bin\Debug\BEL.dll
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\TierApp\BEL\bin\Debug\BEL.pdb
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\TierApp\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\TierApp\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\TierApp\BEL\obj\Debug\BEL.dll
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\TierApp\BEL\obj\Debug\BEL.pdb

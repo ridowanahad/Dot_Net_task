@@ -1,0 +1,15 @@
+:local(.rankWebsitesListItem) {
+  list-style: none;
+  padding: 20px 10px 20px 20px;
+  background-color: white;
+  border-bottom: 1px solid #E3E3E3;
+  display: flex;
+}
+
+:local(.actions) {
+  flex: 0 0 90px;
+}
+
+button:focus {
+  outline: 0 !important;
+}

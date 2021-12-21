@@ -1,0 +1,34 @@
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.dll.config
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.dll
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.pdb
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.dll
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.xml
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csprojResolveAssemblyReference.cache
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.dll
+c:\users\ishtiaque\documents\visual studio 2012\Projects\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.pdb
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.dll.config
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.dll
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.pdb
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.dll
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.xml
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.SqlServer.xml
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csprojAssemblyReference.cache
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csproj.CoreCompileInputs.cache
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csproj.CopyComplete
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.dll
+F:\dot Net\Personal practice\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.pdb
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.dll.config
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.dll
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\PMEntity.pdb
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.dll
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.xml
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csproj.AssemblyReference.cache
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csproj.CoreCompileInputs.cache
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.csproj.CopyComplete
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.dll
+D:\Ridowan Ahad\Asp_.NET\Others\E-Commerce-Website\E-Commerce-Web\PMEntity\obj\Debug\PMEntity.pdb

@@ -1,0 +1,30 @@
+F:\Teaching\fall\DemoApp\BEL\bin\Debug\BEL.dll
+F:\Teaching\fall\DemoApp\BEL\bin\Debug\BEL.pdb
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.dll
+F:\Teaching\fall\DemoApp\BEL\obj\Debug\BEL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.pdb
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\Final_P\blog_api-master\BEL\bin\Debug\BEL.dll
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\Final_P\blog_api-master\BEL\bin\Debug\BEL.pdb
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\Final_P\blog_api-master\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\Final_P\blog_api-master\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\Final_P\blog_api-master\BEL\obj\Debug\BEL.dll
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\Final_P\blog_api-master\BEL\obj\Debug\BEL.pdb
+C:\Users\Fahad\Documents\doctor-portal\Final_P\blog_api-master\BEL\bin\Debug\BEL.dll
+C:\Users\Fahad\Documents\doctor-portal\Final_P\blog_api-master\BEL\bin\Debug\BEL.pdb
+C:\Users\Fahad\Documents\doctor-portal\Final_P\blog_api-master\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\Fahad\Documents\doctor-portal\Final_P\blog_api-master\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Documents\doctor-portal\Final_P\blog_api-master\BEL\obj\Debug\BEL.dll
+C:\Users\Fahad\Documents\doctor-portal\Final_P\blog_api-master\BEL\obj\Debug\BEL.pdb
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.dll
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\blog_api-master\blog_api-master\BEL\bin\Debug\BEL.pdb
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.dll
+D:\Ridowan Ahad\Asp_.NET\Asp.net_Project\Final\blog_api-master\blog_api-master\BEL\obj\Debug\BEL.pdb
